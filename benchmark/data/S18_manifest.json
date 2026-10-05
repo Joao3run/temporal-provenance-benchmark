@@ -1,0 +1,43 @@
+{
+  "components": {
+    "api": {
+      "clock_offset_seconds": null,
+      "semantics": "request_received",
+      "timezone": null,
+      "uncertainty_seconds": null
+    },
+    "client": {
+      "clock_offset_seconds": null,
+      "semantics": "user_action",
+      "timezone": null,
+      "uncertainty_seconds": null
+    },
+    "collector": {
+      "clock_offset_seconds": null,
+      "semantics": "log_ingested",
+      "timezone": null,
+      "uncertainty_seconds": null
+    },
+    "database": {
+      "clock_offset_seconds": null,
+      "semantics": "record_persisted",
+      "timezone": null,
+      "uncertainty_seconds": null
+    },
+    "queue": {
+      "clock_offset_seconds": null,
+      "semantics": "message_enqueued",
+      "timezone": null,
+      "uncertainty_seconds": null
+    },
+    "worker": {
+      "clock_offset_seconds": null,
+      "semantics": "message_processed",
+      "timezone": null,
+      "uncertainty_seconds": null
+    }
+  },
+  "provenance": "incomplete",
+  "raw_format": "utc_explicit",
+  "scenario_id": "S18"
+}
