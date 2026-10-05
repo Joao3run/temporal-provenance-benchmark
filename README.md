@@ -8,6 +8,12 @@ This repository will contain a synthetic benchmark, reproducible analysis code, 
 
 It does not contain the manuscript, case files, personal data, forensic images, credentials, or material subject to judicial secrecy. The public package will use only synthetic data and properly attributed open research material.
 
+## Licensing
+
+- Source code: [MIT License](LICENSE).
+- Synthetic data and documentation: [CC-BY-4.0](LICENSE-DATA.md).
+- Third-party datasets are not redistributed or relicensed.
+
 ## Publication roadmap
 
 1. Repository foundation and public-scope statement.
